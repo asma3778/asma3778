@@ -1,5 +1,7 @@
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm ASMA ALSALEH</h1>
 <h3 align="center">A passionate front-end, back-end, fullstack developer from Saudi Arabia</h3>
+<img align="right" alt="coding" width="400" src="https://codersera.com/blog/wp-content/uploads/2019/09/female-developer.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asma3778&label=Profile%20views&color=0e75b6&style=flat" alt="asma3778" /> </p>
 
